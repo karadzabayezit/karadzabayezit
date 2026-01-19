@@ -50,9 +50,9 @@ I specialize in **React / Next.js / TypeScript**, and love working on products w
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://karadzabayezit.vercell.app"><img src="https://img.shields.io/badge/Portfolio-1e3c72?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://t.me/karadza_b"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://instagram.com/karadza.b"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://karadzabayezit.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1e3c72?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://t.me/karadzabayezit"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/karadzabayezit"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="bayezitkarajaew@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
